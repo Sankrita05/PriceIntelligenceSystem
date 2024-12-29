@@ -1,5 +1,5 @@
 import sys
-from src.BostonHousePricePrediction.logger import logging
+from src.PriceIntelligenceSystem.logger import logging
 
 
 
